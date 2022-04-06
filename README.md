@@ -29,6 +29,8 @@
 - 서울시 빅데이터분석 사례 
 - 노인복지시설 현황 분석
 - 국내외 논문
+  - 노인복지시설 지리적 분포 현황
+(https://docviewer.nanet.go.kr/reader/viewer)
 
 ## 관련 용어
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다. 동일한 용어로 
